@@ -12,14 +12,12 @@
 
 <br/>
 
-```text
-   🌱  Full-stack developer passionate about creating apps & websites 
-       that genuinely make life easier for people
+```
+full-stack dev 🌱  
+making apps & websites that don’t suck and actually help people  
 
-   🛠️  Turning complex problems into clean, intuitive, user-friendly experiences
+love clean code, happy users & chaotic group brainstorming sessions  
 
-   🤝  Thriving in collaborative teams — love exploring new ideas and technologies
-
-   "Code should solve real problems — simply, elegantly, and for real people."
+“just make it work nicely and make life a bit easier”
 
 ```
